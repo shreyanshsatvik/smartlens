@@ -1,6 +1,6 @@
 # SmartLens
 
-**An application made to resolve all the issues of a student in their assignment made on Strealit. A web app that is made to scan handwritten text and convert it to typed one and then performs tasks like translation and summarization of that text.
+**An application made to resolve all the issues of a student in their assignment made on Streamlit. A web app that is made to scan handwritten text and convert it to typed one and then performs tasks like translation and summarization of that text.
 Right now there are 4 different modes available to use this application : -**
 
 
@@ -15,7 +15,7 @@ Medicine Details | Web Scrapping
 
 **FUTURE WORKS**
 
-1. Rest API / Fast API Deployment of different modes so that it can be migrated in a mobile apk or better web app and will help in scaling.
+1. Rest API / Fast API Deployment of different modes so that it can be migrated to a mobile apk or better web app and will help in scaling.
 2. Mobile Version for this web app.
 3. Better and more modes to this app.
 
