@@ -1,4 +1,4 @@
-# smartlens
+# SmartLens
 
 **An application made to resolve all the issues of a student in their assignment made on Strealit. A web app that is made to scan handwritten text and convert it to typed one and then performs tasks like translation and summarization of that text.
 Right now there are 4 different modes available to use this application : -**
