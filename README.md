@@ -4,7 +4,7 @@
 Right now there are 4 different modes available to use this application : -**
 
 
-**Made with :heart: **
+**Made with :heart:**
 
 App Mode | Tech Stack Used
 ------------ | -------------
