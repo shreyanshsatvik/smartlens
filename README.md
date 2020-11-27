@@ -14,9 +14,10 @@ Text Summarization | T5 Transformer
 Medicine Details | Web Scrapping 
 
 **FUTURE WORKS**
+
 1. Rest API / Fast API Deployment of different modes so that it can be migrated in a mobile apk or better web app and will help in scaling.
 2. Mobile Version for this web app.
 3. Better and more modes to this app.
 
-WORK ON PROGRESS
+**WORK ON PROGRESS**
 ![gif_2](https://user-images.githubusercontent.com/52126313/100343588-90f6df80-3005-11eb-9864-0ea010cbc165.gif)
