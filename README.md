@@ -1,4 +1,4 @@
-# ![alt text](file:///C:/Users/praks/AppData/Local/Temp/MicrosoftEdgeDownloads/da506560-cb63-4eb2-99fe-58ab88774964/camera-outline.svg) SmartLens
+# ![img_4286a-350x233](file:///C:/Users/praks/AppData/Local/Temp/MicrosoftEdgeDownloads/da506560-cb63-4eb2-99fe-58ab88774964/camera-outline.svg) SmartLens
 
 **An application made to resolve all the issues of a student in their assignment made on Strealit. A web app that is made to scan handwritten text and convert it to typed one and then performs tasks like translation and summarization of that text.
 Right now there are 4 different modes available to use this application : -**
