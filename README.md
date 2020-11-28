@@ -4,8 +4,6 @@
 Right now there are 4 different modes available to use this application : -**
 
 
-**Made with :heart: -BiraVirus** 
-
 App Mode | Tech Stack Used
 ------------ | -------------
 Scanning and Converting Hand Written Text to Typed One |  Pytesseract OCR
@@ -22,3 +20,6 @@ Medicine Details | Web Scrapping
 **WORK IN PROGRESS**
 
 ![gif_2](https://user-images.githubusercontent.com/52126313/100343588-90f6df80-3005-11eb-9864-0ea010cbc165.gif)
+
+**Made with :heart:** 
+              **-BiraVirus** 
